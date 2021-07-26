@@ -1,0 +1,42 @@
+
+div{
+  
+  border-left:25px solid rgb(1, 1, 37);
+    font-size:25px;
+    
+}
+h1{
+    text-align:center;
+    color:#457b9d;
+}
+dl{
+ overflow:scroll;
+  
+}
+dt{
+    
+   background-color:#99c1de;
+ font-weight:50px;
+ font: bold 18px/21px Helvetica, Arial, sans-serif;
+   border:2px solid;
+    font-size:25px;
+    position: -webkit-sticky;
+  position: sticky;
+  
+
+
+}
+dd{
+border-bottom-style:solid;
+ margin:0px 0px 3px 3px;
+ white-space: nowrap;
+ 
+  }
+  
+
+
+dd:hover { 
+    background-color: rgb(248, 245, 245);
+
+    
+}
